@@ -143,6 +143,18 @@ Led a 4-member team among 3,000+ teams nationally to a **Top 10** finish, drivin
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
 
+## 🛰️ Full Metrics Dashboard
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aditya-Sharma-dev18/Aditya-Sharma-dev18/master/metrics.svg" width="100%"/>
+
+</div>
+
+> ⚙️ Auto-refreshing dashboard — languages, habits, achievements, and activity in one image. Needs a one-time setup — see notes below.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
