@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Aditya-Sharma-dev18's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:1c3c3c,100:6dd3fb&height=220&section=header&text=Aditya%20Sharma&fontSize=60&fontColor=6DD3FB&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer%20in%20training%20%7C%20B.Tech%20CSE%20%40%20KIET&descAlignY=58&descColor=c7d1db" width="100%"/>
