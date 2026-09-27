@@ -1,19 +1,5 @@
 <img alt="Aditya-Sharma-dev18's GitHub profile" src="dark_mode.svg" width="100%" />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:1c3c3c,100:6dd3fb&height=220&section=header&text=Aditya%20Sharma&fontSize=60&fontColor=6DD3FB&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer%20in%20training%20%7C%20B.Tech%20CSE%20%40%20KIET&descAlignY=58&descColor=c7d1db" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6DD3FB&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+%26+AI+agents;LangChain+%7C+LangGraph+%7C+FastAPI;Turning+resumes%2C+videos+%26+text+into+intelligence;Currently+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aditya-Sharma-dev18&label=PROFILE%20VIEWS&color=6dd3fb&style=for-the-badge&labelColor=0a0e14" />
-<img src="https://img.shields.io/github/followers/Aditya-Sharma-dev18?label=FOLLOWERS&style=for-the-badge&color=d197f2&labelColor=0a0e14" />
-<img src="https://img.shields.io/badge/STATUS-SHIPPING-7ee787?style=for-the-badge&labelColor=0a0e14" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
 
 ## 🧠 About Me
