@@ -2,20 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
 
-## 🧠 About Me
-
-```yaml
-name: Aditya Sharma
-role: AI/ML Engineer in training
-education: B.Tech CSE @ KIET Group of Institutions (2023 - 2027)
-focus: [RAG pipelines, LLM agents, LangChain/LangGraph]
-shipped: [YouTube RAG Chatbot, ATS Resume Analyzer, AI Plagiarism Detector]
-highlight: "Top 10 / 3000+ teams @ HackIndia National Hackathon"
-contact: sharma.adityaaa0001@gmail.com
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
-
 ## ⚙️ Tech Stack
 
 <div align="center">
